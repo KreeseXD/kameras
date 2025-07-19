@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e/bVdutBywc=",
+  "success": true,
+  "projectFilePath": "/home/kreese/Projects/Stardew Camera Mod/kameras/kameras.csproj",
+  "expectedPackageFiles": [
+    "/home/kreese/.nuget/packages/pathoschild.stardew.modbuildconfig/4.4.0/pathoschild.stardew.modbuildconfig.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
