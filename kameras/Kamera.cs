@@ -31,19 +31,7 @@ public class Kamera : StardewValley.Tools.GenericTool
         UpgradeLevel = 0;
         // stackable = false;
     } 
-
-
-
-    // StardewValley.Tools.FishingRod
-    // gonna need to change this
-    // will need to reference fishing rod to see how it's using attachments
-    // need attachments for film type and lens
-    // public Camera()
-    //     : base("Camera", 0, 273, 296, false, 2)
-    // {
-
-    // }
-
+    
     protected override Item GetOneNew()
     {
         return new Kamera();
