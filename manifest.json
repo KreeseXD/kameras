@@ -1,10 +1,11 @@
 {
-  "Name": "Kameras",
+  "Name": "Kamera",
   "Author": "Kreese",
   "Version": "1.0.0",
-  "Description": "Adding analog film cameras into Stardew",
-  "UniqueID": "Kreese.Kameras",
-  "EntryDll": "kameras.dll",
-  "MinimumApiVersion": "4.0.0",
-  "UpdateKeys": []
+  "Description": "Adds cameras into the game",
+  "UniqueID": "Kreese.Kamera",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
 }
